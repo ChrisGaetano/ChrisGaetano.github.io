@@ -6,7 +6,7 @@ My name is Chris Gaetano and I am a junior economics major at Lehigh University.
 
 This infographic breaks down the colleges that the first year Lehigh students are enrolled in for the fall semester of 2016. This data was received from Lehigh's Office of Institutional Research. This infographic was created using the website Canva. 
 
-![Movie](https://github.com/ChrisGaetano/ChrisGaetano.github.io/blob/master/Highest%20Grossing%20Filmsof%202016.png)
+![Movie](https://github.com/ChrisGaetano/ChrisGaetano.github.io/blob/master/Highest%20Grossing%20Filmsof%202016.png?raw=true)
 
 This infographic displays the top 5 highest grossing films of 2016. The highest grossing film of the year was Captain America: Civil War.Four out of the five highest grossing films earned more than one billion worldwide. All the films were distributed by the Disney Company. 
 
