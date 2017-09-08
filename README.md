@@ -12,5 +12,5 @@ This infographic displays the top 5 highest grossing films of 2016. The highest 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=18wMfYPlJ3yHM1f6onLK82uYJxEv4MapFBul4PinoVuU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vROmVAlRh5TvrAjU6FyiPsizKWwWWe_3vnNFd5wMAcJJiIy0cmeW2DzMUcFxCk0OhLLgEwiFc-sUzw6/pubhtml?widget=true&amp;headers=false"></iframe>
 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=13vJG4x-IC2yt7Fe6AepFW62aBMUpGFn8__SrOH7WZtk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
