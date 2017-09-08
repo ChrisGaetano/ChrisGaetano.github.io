@@ -11,3 +11,6 @@ This infographic breaks down the colleges that the first year Lehigh students ar
 This infographic displays the top 5 highest grossing films of 2016. The highest grossing film of the year was Captain America: Civil War.Four out of the five highest grossing films earned more than one billion worldwide. All the films were distributed by the Disney Company. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=18wMfYPlJ3yHM1f6onLK82uYJxEv4MapFBul4PinoVuU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vROmVAlRh5TvrAjU6FyiPsizKWwWWe_3vnNFd5wMAcJJiIy0cmeW2DzMUcFxCk0OhLLgEwiFc-sUzw6/pubhtml?widget=true&amp;headers=false"></iframe>
+
