@@ -17,3 +17,5 @@ Beatles Album History Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=13vJG4x-IC2yt7Fe6AepFW62aBMUpGFn8__SrOH7WZtk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 !<Graph>(https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/2016_Lehigh_University_Undergraduate_Enrollment_Percent_Enrollment_chartbuilder.png)
+
+This infographic describes the percent enrollment of undergraduate students at Lehigh University in 2016. The information was gathered using Lehigh's Office of Institutional Research and the graphic was created using Chartbuilder 3.0.5
