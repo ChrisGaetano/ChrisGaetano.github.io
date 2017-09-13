@@ -22,3 +22,9 @@ This infographic describes the percent enrollment of undergraduate students at L
 ![Line](https://github.com/ChrisGaetano/ChrisGaetano.github.io/blob/master/Lehigh_University_Percent_Undergraduate_Enrollment_Arts_%26_Sciences_Business__Engineering_chartbuilder.png)
 
 This infographic shows the change in Lehigh University Undergraduate Enrollment from the year 2006 to the year 2016. With this infographic you can see that the percent enrollment changed drastically for all the schools, especially for the college of Arts and Sciences and teh school of engineering. This timeline was created using information from Lehigh's Office of Institutional Research and the graphic was created using Chartbuilder 3.0.5.
+
+## Netflix Subscriber Growth
+
+![Netflix](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/Netflix__Subscribers_Worldwide_Number_of_Subscribers_(In_Millions)_chartbuilder.png) 
+
+This infographic displays how Netlfix subscribers have grown overtime. As you can see the growth is direct in that as time has passed the amount of Netflix subscribers has increased. With Netflix being the most popular it has been in years it makes sense that the graph is at its peak point in 2017. 2011 is the year in which Netflix became international, so you can see that in this year the growth becomes quicker. This timeline was created using information from Netflix annual reports and the graphic was created using Chartbuilder 3.0.5.
