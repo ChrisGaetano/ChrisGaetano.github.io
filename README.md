@@ -1,8 +1,9 @@
-###  <p align="center">
+<p align="center">
 My name is Chris Gaetano and I am a junior economics major at Lehigh University. I also have a double minor in marketing and journalism. This is my Github page for my J24 class. Over the semester I plan on working on several data visualization projects to add to my project. 
 
 
 
+<p align="center">
 ###  Movie Worldwide Gross Infographic
 ![Movie](https://github.com/ChrisGaetano/ChrisGaetano.github.io/blob/master/Highest%20Grossing%20Filmsof%202016.png?raw=true)
 
