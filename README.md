@@ -16,3 +16,9 @@ This timeline was created using TimelineJS. The timeline goes over the all the s
 ![Graph](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/2016_Lehigh_University_Undergraduate_Enrollment_Percent_Enrollment_chartbuilder.png)
 
 This infographic describes the percent enrollment of undergraduate students at Lehigh University in 2016. The information was gathered using Lehigh's Office of Institutional Research and the graphic was created using Chartbuilder 3.0.5.
+
+## Lehigh Undergraduate Enrollment Line Chart
+
+![Line](https://github.com/ChrisGaetano/ChrisGaetano.github.io/blob/master/Lehigh_University_Percent_Undergraduate_Enrollment_Arts_%26_Sciences_Business__Engineering_chartbuilder.png)
+
+This infographic shows the change in Lehigh University Undergraduate Enrollment from the year 2006 to the year 2016. With this infographic you can see that the percent enrollment changed drastically for all the schools, especially for the college of Arts and Sciences and teh school of engineering. This timeline was created using information from Lehigh's Office of Institutional Research and the graphic was created using Chartbuilder 3.0.5.
