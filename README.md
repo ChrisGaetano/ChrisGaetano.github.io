@@ -11,6 +11,6 @@
 <p align= "center"> This timeline was created using TimelineJS. The timeline goes over the all the studio albums that the Beatles have produced. The timeline discusses the year the albums came out and it discusses some of the songs on the albums. The timeline starts with the Beatles' first albums Please Please Me, and it ends with Let It Be. 
 
 ### <p align= "center"> Lehigh Enrollment Infographic
-<p align= "center"> ![Graph](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/2016_Lehigh_University_Undergraduate_Enrollment_Percent_Enrollment_chartbuilder.png)
+![Graph](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/2016_Lehigh_University_Undergraduate_Enrollment_Percent_Enrollment_chartbuilder.png)
 
 <p align= "center"> This infographic describes the percent enrollment of undergraduate students at Lehigh University in 2016. The information was gathered using Lehigh's Office of Institutional Research and the graphic was created using Chartbuilder 3.0.5.
