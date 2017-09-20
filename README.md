@@ -35,3 +35,7 @@ This infographic shows the change in Lehigh University Undergraduate Enrollment 
 ![Netflix](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/Netflix__Subscribers_Worldwide_Number_of_Subscribers_(In_Millions)_chartbuilder.png) 
 
 This infographic displays how Netlfix subscribers have grown overtime. As you can see the growth is direct in that as time has passed the amount of Netflix subscribers has increased. With Netflix being the most popular it has been in years it makes sense that the graph is at its peak point in 2017. 2011 is the year in which Netflix became international, so you can see that in this year the growth becomes quicker. This timeline was created using information from Netflix annual reports and the graphic was created using Chartbuilder 3.0.5.
+
+## Arts Centers In the Lehigh Valley
+
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+15KzS7gXfluOzYjqP0TKZ4snu_jMjHWzLxwEk6cxT&amp;viz=MAP&amp;h=false&amp;lat=40.60498878615068&amp;lng=-75.3880652225098&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
