@@ -38,4 +38,4 @@ This infographic displays how Netlfix subscribers have grown overtime. As you ca
 
 ## Arts Centers In the Lehigh Valley
 
-<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+15KzS7gXfluOzYjqP0TKZ4snu_jMjHWzLxwEk6cxT&amp;viz=MAP&amp;h=false&amp;lat=40.60498878615068&amp;lng=-75.3880652225098&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+15KzS7gXfluOzYjqP0TKZ4snu_jMjHWzLxwEk6cxT&amp;viz=MAP&amp;h=false&amp;lat=40.60498878615068&amp;lng=-75.3880652225098&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
