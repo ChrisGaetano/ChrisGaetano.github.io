@@ -38,12 +38,12 @@ This infographic displays how Netlfix subscribers have grown overtime. As you ca
 
 ## Arts Centers In the Lehigh Valley
 
-<iframe width="900" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+15KzS7gXfluOzYjqP0TKZ4snu_jMjHWzLxwEk6cxT&amp;viz=MAP&amp;h=false&amp;lat=40.60498878615068&amp;lng=-75.3880652225098&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+15KzS7gXfluOzYjqP0TKZ4snu_jMjHWzLxwEk6cxT&amp;viz=MAP&amp;h=false&amp;lat=40.60498878615068&amp;lng=-75.3880652225098&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
 This is a map that displays local arts centers in the Lehigh Valley area. The map shows five arts centers including the Touchstone Theatre, Godfrey Daniels, The Banana Factory, Zoellner Arts Center, and the Allentown Art Museum. This map was created using Google Fusion. 
 
 ## Lehigh Valley Movie Theaters
 
-<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1PmYGCZTBLsLnpoeAL8OhK1Lzno1DxchZ5ompbAJn&amp;viz=MAP&amp;h=false&amp;lat=40.62498315444517&amp;lng=-75.40642135815426&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1PmYGCZTBLsLnpoeAL8OhK1Lzno1DxchZ5ompbAJn&amp;viz=MAP&amp;h=false&amp;lat=40.62498315444517&amp;lng=-75.40642135815426&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
 This is a map that displays various movie theaters in the Lehigh Valley area. The map shows movie theaters ranging from brand new cineplexes with popular new movies, to historical movie theaters, to movie theaters showcasing documentaries and films of the arts. This map was created using the Google Fusion program. 
