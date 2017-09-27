@@ -75,4 +75,4 @@ This is a map that shows the baby names from 1910 to 2012. The map will show bab
 
 <html>
   
- This bar chart compares several films that hit theaters in between the years of 2007 and 2011. The graph does not contain every movie that came out between these years, but it contains some of teh most notable films from this time period. This graph allows you to compare the films based off of genre, studio that produced the films, rotten tomatoes score, year and worldwide gross. This information was gathered using a dataset from tableau public. The data visualization was created using the Tableau Software. 
+ This bar chart compares several films that hit theaters in between the years of 2007 and 2011. The graph does not contain every movie that came out between these years, but it contains some of teh most notable films from this time period. This graph allows you to compare the films based off of genre, studio that produced the films, rotten tomatoes score, year and worldwide gross. This information was gathered using a dataset from tableau public. The data visualization was created using the Tableau Software. -
