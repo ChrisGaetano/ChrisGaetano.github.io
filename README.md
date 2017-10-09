@@ -3,7 +3,7 @@
 
 ## My Intro Comic
 
-<iframe src="//www.pixton.com/embed/nb0a8c9t" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
+![Comic](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/Screen%20Shot%202017-10-09%20at%2011.35.26%20AM.png)
 
 ## Movie Worldwide Gross Infographic
 ![Movie](https://github.com/ChrisGaetano/ChrisGaetano.github.io/blob/master/Highest%20Grossing%20Filmsof%202016.png?raw=true)
