@@ -15,6 +15,7 @@ This infographic displays the top 5 highest grossing films of 2016. This is the 
 ##  Beatles Album History Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=13vJG4x-IC2yt7Fe6AepFW62aBMUpGFn8__SrOH7WZtk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+
 This timeline was created using TimelineJS. The timeline goes over the all the studio albums that the Beatles have produced. The timeline discusses the year the albums came out and it discusses some of the songs on the albums. The timeline starts with the Beatles' first albums Please Please Me, and it ends with Let It Be. 
 
 
