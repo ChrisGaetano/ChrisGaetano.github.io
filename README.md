@@ -21,7 +21,7 @@ This timeline was created using TimelineJS. The timeline goes over the all the s
 
 ## Netflix Subscriber Growth
 
-![Netflix](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/Netflix__Subscribers_Worldwide_Number_of_Subscribers_(In_Millions)_chartbuilder.png) 
+![Netflix](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/Worldwide_Netflix_Subscribers_Number_of_Subscribers_(In_Millions)_chartbuilder.png)
 
 This chart displays how Netlfix subscribers have grown overtime. As you can see steady growth from 2007 to 2017. With Netflix being the most popular it has been in years it makes sense that the graph is at its peak point in 2017. 2011 is the year in which Netflix became international, so you can see that in this year the growth becomes quicker. This timeline was created using information from Netflix annual reports and the graphic was created using Chartbuilder 3.0.5.
 
