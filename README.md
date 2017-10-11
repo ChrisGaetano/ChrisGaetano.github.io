@@ -25,17 +25,12 @@ This timeline was created using TimelineJS. The timeline goes over the all the s
 
 This chart displays how Netlfix subscribers have grown overtime. As you can see steady growth from 2007 to 2017. With Netflix being the most popular it has been in years it makes sense that the graph is at its peak point in 2017. 2011 is the year in which Netflix became international, so you can see that in this year the growth becomes quicker. This timeline was created using information from Netflix annual reports and the graphic was created using Chartbuilder 3.0.5.
 
-## Arts Centers In the Lehigh Valley
-
-<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+15KzS7gXfluOzYjqP0TKZ4snu_jMjHWzLxwEk6cxT&amp;viz=MAP&amp;h=false&amp;lat=40.60498878615068&amp;lng=-75.3880652225098&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
-
-This is a map that displays local arts centers in the Lehigh Valley area. The map shows five arts centers including the Touchstone Theatre, Godfrey Daniels, The Banana Factory, Zoellner Arts Center, and the Allentown Art Museum. This map was created using Google Fusion. 
 
 ## Lehigh Valley Movie Theaters
 
-<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1PmYGCZTBLsLnpoeAL8OhK1Lzno1DxchZ5ompbAJn&amp;viz=MAP&amp;h=false&amp;lat=40.62498315444517&amp;lng=-75.40642135815426&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+<iframe width="800" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1XqPAgG2zvhZ-eBApC428NqI4asiczxN9LClyvXI1&amp;viz=MAP&amp;h=false&amp;lat=40.703753289321874&amp;lng=-75.40120270429685&amp;t=1&amp;z=11&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
-This is a map that displays various movie theaters in the Lehigh Valley area. The map shows movie theaters ranging from brand new cineplexes with popular new movies, to historical movie theaters, to movie theaters showcasing documentaries and films of the arts. This map was created using the Google Fusion program. 
+This is a map that displays various movie theaters in the Lehigh Valley area. I chose these movie theaters because they are all theaters that are close to Lehigh University, and they are all pretty diverse theaters. The map shows movie theaters ranging from brand new cineplexes with popular new movies, to historical movie theaters, to movie theaters showcasing documentaries and films of the arts. This map was created using the Google Fusion program. 
 
 ## Baby Name Popularity
 
