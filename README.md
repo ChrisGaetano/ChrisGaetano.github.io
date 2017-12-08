@@ -54,7 +54,7 @@ This is a map that displays various movie theaters in the Lehigh Valley area. I 
   
   These graphs display two of the most profitable movie franchises in the modern movie franchise. The Marvel and DC movies are some of the higheset grossing films, and now we can compare the two to see how much they are actually making relevent to domestic and worldwide gross. We can also see how much the two franchises spent on production costs. Another way we can compare the two industries is through critic and user scores, which will show you how a critic likes the movie versus that of a regular movie goer. The information was gathered using statistics from Rotten Tomatoes, Box Office Mojo, and the visualization was created with Tableau Software. 
   
-  Photo and Video Journalism 
+  #### Photo and Video Journalism 
   
   ## Lehigh After Dark Feature Project
   
