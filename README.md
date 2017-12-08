@@ -67,12 +67,19 @@ This my about me page, it describes who I am and what I like to do. I made this 
 
 These are just some photos I took for two different assignments during the semester. The first selection of pictures were a project in which we tried to capture Lehigh from new angles. 
 
+![1](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/IMG_2516.JPG)
+![2](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/IMG_2526.JPG)
+![3](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/IMG_2531.JPG)
+![4](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/1.png)
+![5](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/2.png)
+![6](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/5.JPG)
+
 **Lehigh After Dark Feature Project**
   
   ![Magazine](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/Lehigh%20After%20Dark%20Magazine%20Cover.jpg)
   ![Magazine](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/Lehigh%20After%20Dark%20Magazine%20Cover2.jpg)
   ![Magazine](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/Lehigh%20After%20Dark%20Magazine%20Cover3.jpg)
 
-
+https://www.youtube.com/upload
 
 For my feature project I decided to focus on Lehigh After Dark. It's really a great program that does a lot to help encourage a vibrant and fun college campus nightlife that doesn't require drinking. In the past I have been to a few Lehigh After Dark events and I wanted to learn more about it, so when it came to the feature project I definitely learned a lot about the program, and I was able to go to a lot of fun events. My project consists of a magazine article made through InDesign and a video project made using FinalCut Pro, the video is on Youtube and you can get to it by clicking on the link.
