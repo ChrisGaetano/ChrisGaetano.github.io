@@ -61,6 +61,12 @@ This is a map that displays various movie theaters in the Lehigh Valley area. I 
 **About Me**
 ![Me](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/Indesign%20Project%202.jpg)
 
+This my about me page, it describes who I am and what I like to do. I made this using InDesign and it was one of my first time using InDesing so I'm pretty proud of the way it turned out. 
+
+**Photo Gallery**
+
+These are just some photos I took for two different assignments during the semester. The first selection of pictures were a project in which we tried to capture Lehigh from new angles. 
+
 **Lehigh After Dark Feature Project**
   
   ![Magazine](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/Lehigh%20After%20Dark%20Magazine%20Cover.jpg)
@@ -68,3 +74,5 @@ This is a map that displays various movie theaters in the Lehigh Valley area. I 
   ![Magazine](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/Lehigh%20After%20Dark%20Magazine%20Cover3.jpg)
 
 
+
+For my feature project I decided to focus on Lehigh After Dark. It's really a great program that does a lot to help encourage a vibrant and fun college campus nightlife that doesn't require drinking. In the past I have been to a few Lehigh After Dark events and I wanted to learn more about it, so when it came to the feature project I definitely learned a lot about the program, and I was able to go to a lot of fun events. My project consists of a magazine article made through InDesign and a video project made using FinalCut Pro, the video is on Youtube and you can get to it by clicking on the link.
