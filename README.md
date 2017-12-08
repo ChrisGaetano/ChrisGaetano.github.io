@@ -58,6 +58,9 @@ This is a map that displays various movie theaters in the Lehigh Valley area. I 
    
     Photo and Video Journalism 
  
+**About Me**
+![Me](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/Indesign%20Project%202.jpg)
+
 **Lehigh After Dark Feature Project**
   
   ![Magazine](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/Lehigh%20After%20Dark%20Magazine%20Cover.jpg)
