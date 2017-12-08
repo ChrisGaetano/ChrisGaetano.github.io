@@ -43,7 +43,17 @@ This is a map that displays various movie theaters in the Lehigh Valley area. I 
 </html>
   
  This bar chart compares several films that hit theaters in between the years of 2007 and 2011. The graph does not contain every movie that came out between these years, but it contains some of teh most notable films from this time period. This graph allows you to compare the films based off of genre, studio that produced the films, rotten tomatoes score, year and worldwide gross. This information was gathered using a dataset from tableau public. The data visualization was created using the Tableau Software.
- 
+
+
+
+ #### Photo and Video Journalism 
+  
+  ## Lehigh After Dark Feature Project
+  
+  ![Magazine](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/Lehigh%20After%20Dark%20Magazine%20Cover.jpg)
+  ![Magazine](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/Lehigh%20After%20Dark%20Magazine%20Cover2.jpg)
+  ![Magazine](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/Lehigh%20After%20Dark%20Magazine%20Cover3.jpg)
+
  
 ## Marvel Vs. DC
 <html>
@@ -56,10 +66,4 @@ This is a map that displays various movie theaters in the Lehigh Valley area. I 
  
  
  
- #### Photo and Video Journalism 
-  
-  ## Lehigh After Dark Feature Project
-  
-  ![Magazine](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/Lehigh%20After%20Dark%20Magazine%20Cover.jpg)
-  ![Magazine](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/Lehigh%20After%20Dark%20Magazine%20Cover2.jpg)
-  ![Magazine](https://raw.githubusercontent.com/ChrisGaetano/ChrisGaetano.github.io/master/Lehigh%20After%20Dark%20Magazine%20Cover3.jpg)
+
